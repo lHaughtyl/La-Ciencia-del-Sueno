@@ -14,3 +14,5 @@ Fuentes utilizadas:
 - User Guide. (s. f.). Scikit-learn. https://scikit-learn.org/1.6/user_guide.html
 
 Dashboard: https://lookerstudio.google.com/reporting/aa0f9c24-9be2-4c5c-b157-147e66f4a9e6
+Kaggle: https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset
+
